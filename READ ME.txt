@@ -1,0 +1,20 @@
+  _________________   ____ ___.___ ____  __.
+ /   _____/\_____  \ |    |   \   |    |/ _|
+ \_____  \  /  / \  \|    |   /   |      <  
+ /        \/   \_/.  \    |  /|   |    |  \ 
+/_______  /\_____\ \_/______/ |___|____|__ \
+        \/        \__>                    \/
+
+---------------------------------------------
+
+HOW TO USE-
+
+Run the "Run Me.exe" and the Multi-tool menu should
+appear. 
+
+The "Inject/Executor" Function requires a txt in
+the same folder with the script you want injected
+inside. Make sure roblox from microsoft store is
+being used.
+
+If any problems accur, dm us on discord.
