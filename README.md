@@ -4,6 +4,9 @@
 
 <img src="https://i.ibb.co/kg4wFZzB/sigmathing.png" alt="project-screenshot" width="5000" height="400/">
 
+<h2>🚀 Download</h2>
+
+[https://mega.nz/file/gr0nlKBb#We3sKntAYe4Ri5HN-pcXH5XiZdKgOgSeWAHQ9jYIE9I](https://mega.nz/file/gr0nlKBb#We3sKntAYe4Ri5HN-pcXH5XiZdKgOgSeWAHQ9jYIE9I)
 
 <h2>🧐 Read Me</h2>
 
