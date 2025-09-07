@@ -11,3 +11,7 @@
 <h2>🧐 Read Me</h2>
 
 *   Run the "Run Me.exe" and the Multi-tool menu should appear. The "Inject/Executor" Function requires a txt in the same folder with the script you want injected inside. Make sure roblox from microsoft store is being used. If any problems accur dm us on discord.
+
+<h2>⚠ For educational use!</h2>
+
+*   Our tool is made for educational use only and any exploiting or anything of the sorts is all from user selection and the creator is not responsible of any shit caused from the users.
